@@ -1,0 +1,1 @@
+W tym folderze będą pliki do poszczególnego sprawozdania.
