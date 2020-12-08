@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 4vh;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+  height: 10vh;
+  background-color: #d9e4dd;
+}
+
+h1 {
+  text-align: center;
+}
+
+.emptyDiv {
+  height: 5vh;
+  background-color: #fbf7f0;
+}
+
+.container {
+  height: 80vh;
+  background-color: #cdc9c3;
+}
+
+.page {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.gallery {
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-color: #929c96;
+}
+
+.gallery h1 {
+  color: rgb(77, 77, 77);
+}
+
+.gallery p{
+  color: grey;
+}
+
+.gallery img {
+  display: block;
+  width: 80%;
+  height: 50%;
+  margin: 2vh auto;
+  border: 0.5vh black solid;
+}
+
+footer {
+  clear: both;
+  height: 5vh;
+  background-color: #555555;
+}
